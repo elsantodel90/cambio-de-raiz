@@ -1,3 +1,7 @@
+// Solucion al problema de Hacker Cup 2023, Round 3, Problem D
+// Link: https://www.facebook.com/codingcompetitions/hacker-cup/2023/round-3/problems/D
+
+
 #include <iostream>
 #include <algorithm>
 #include <cassert>

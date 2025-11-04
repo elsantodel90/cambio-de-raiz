@@ -1,3 +1,6 @@
+// Solucion al problema de Hacker Cup 2021, Round 1, Problem C
+// Link: https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/C
+
 #include <iostream>
 #include <algorithm>
 #include <cassert>
